@@ -53,9 +53,5 @@ public class LumaTest extends BaseClass {
         SearchPage searchPage=new SearchPage(driver);
         searchPage.selectSorter();
     }
-
-
-
-
-
+    
 }

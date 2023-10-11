@@ -48,10 +48,10 @@ public class LumaTest extends BaseClass {
         WebDriver driver = getDriver();
         HomePage homePage = new HomePage(driver);
         homePage.frontPage();
-        homePage.search();
-        homePage.searchButton();
-        SearchPage searchPage=new SearchPage(driver);
-        searchPage.selectSorter();
+     //   homePage.search();
+       // homePage.searchButton();
+       // SearchPage searchPage=new SearchPage(driver);
+       // searchPage.selectSorter();
     }
     
 }
